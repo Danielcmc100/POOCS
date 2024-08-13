@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWord", "HelloWord\HelloWord.csproj", "{BCA90D7B-9BBF-45CB-BF65-D611817CA99D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula01", "Aula01", "{D157297C-33EB-49EF-BAD0-2A1B28786DC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "Aula01\ConsoleApp\ConsoleApp.csproj", "{194A0A74-A254-4384-A1F2-FE9C53EA7388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA90D7B-9BBF-45CB-BF65-D611817CA99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA90D7B-9BBF-45CB-BF65-D611817CA99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA90D7B-9BBF-45CB-BF65-D611817CA99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA90D7B-9BBF-45CB-BF65-D611817CA99D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{194A0A74-A254-4384-A1F2-FE9C53EA7388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{194A0A74-A254-4384-A1F2-FE9C53EA7388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{194A0A74-A254-4384-A1F2-FE9C53EA7388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{194A0A74-A254-4384-A1F2-FE9C53EA7388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{194A0A74-A254-4384-A1F2-FE9C53EA7388} = {D157297C-33EB-49EF-BAD0-2A1B28786DC1}
+	EndGlobalSection
+EndGlobal

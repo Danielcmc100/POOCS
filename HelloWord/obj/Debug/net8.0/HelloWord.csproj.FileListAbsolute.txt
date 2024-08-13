@@ -1,0 +1,15 @@
+/workspaces/POOJava/HelloWord/bin/Debug/net8.0/HelloWord
+/workspaces/POOJava/HelloWord/bin/Debug/net8.0/HelloWord.deps.json
+/workspaces/POOJava/HelloWord/bin/Debug/net8.0/HelloWord.runtimeconfig.json
+/workspaces/POOJava/HelloWord/bin/Debug/net8.0/HelloWord.dll
+/workspaces/POOJava/HelloWord/bin/Debug/net8.0/HelloWord.pdb
+/workspaces/POOJava/HelloWord/obj/Debug/net8.0/HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/POOJava/HelloWord/obj/Debug/net8.0/HelloWord.AssemblyInfoInputs.cache
+/workspaces/POOJava/HelloWord/obj/Debug/net8.0/HelloWord.AssemblyInfo.cs
+/workspaces/POOJava/HelloWord/obj/Debug/net8.0/HelloWord.csproj.CoreCompileInputs.cache
+/workspaces/POOJava/HelloWord/obj/Debug/net8.0/HelloWord.sourcelink.json
+/workspaces/POOJava/HelloWord/obj/Debug/net8.0/HelloWord.dll
+/workspaces/POOJava/HelloWord/obj/Debug/net8.0/refint/HelloWord.dll
+/workspaces/POOJava/HelloWord/obj/Debug/net8.0/HelloWord.pdb
+/workspaces/POOJava/HelloWord/obj/Debug/net8.0/HelloWord.genruntimeconfig.cache
+/workspaces/POOJava/HelloWord/obj/Debug/net8.0/ref/HelloWord.dll
